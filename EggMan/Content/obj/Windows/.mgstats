@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nigelkennington/source/repos/EggMan/EggMan/Content/eggman_rock.png","C:/Users/nigelkennington/source/repos/EggMan/EggMan/Content/bin/Windows/eggman_rock.xnb","TextureProcessor","Texture2DContent",132092,117013,0.1073237
+"C:/Users/nigelkennington/source/repos/EggMan/EggMan/Content/eggman_sir_eggalot.png","C:/Users/nigelkennington/source/repos/EggMan/EggMan/Content/bin/Windows/eggman_sir_eggalot.xnb","TextureProcessor","Texture2DContent",36753,21793,0.0019517
+"C:/Users/nigelkennington/source/repos/EggMan/EggMan/Content/pixel.png","C:/Users/nigelkennington/source/repos/EggMan/EggMan/Content/bin/Windows/pixel.xnb","TextureProcessor","Texture2DContent",155,89,0.0018645
